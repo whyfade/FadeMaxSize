@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+venv/
+dist/
+build/
+FadeMaxSize.egg-info/
+__pycache__/
